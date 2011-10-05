@@ -13,11 +13,14 @@ a:hover, a:active {
 
 body {
   font-family: sans-serif;
-  font-size: 101%;
+  font-size: 16px;
 }
 
 h1, h2, h3 { color: #530417; }
 h1, h2 { text-align:center; }
+h1 { font-size: 36px; }
+h2 { font-size: 28px; }
+h3 { font-size: 21px; }
 h1 a:link, h1 a:visited {
   text-decoration: none;
 }
@@ -28,13 +31,13 @@ li {
 }
 
 ol {
-  font-size: 24px;
+  font-size: 28px;
   list-style: upper-roman;
   padding: 0;
   margin-left: 1.5em;
 }
 ol ol {
-  font-size: 18px;
+  font-size: 21px;
   font-weight: normal;
   list-style: upper-alpha;
 }
@@ -43,11 +46,11 @@ ol ol ol {
   list-style: decimal;
 }
 ol ol ol ol {
-  font-size: 14px;
+  font-size: 12px;
   list-style: lower-alpha;
 }
 ol ol ol ol ol {
-  font-size: 12px;
+  font-size: 9px;
   list-style: lower-roman;
 }
 
