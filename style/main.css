@@ -13,14 +13,14 @@ a:hover, a:active {
 
 body {
   font-family: "Georgia", serif;
-  font-size: 16px;
+  font-size: 100%;
 }
 
 h1, h2, h3 { color: #530417; }
 h1, h2 { text-align:center; }
-h1 { font-size: 36px; }
-h2 { font-size: 28px; }
-h3 { font-size: 21px; }
+h1 { font-size: 2.37em; }
+h2 { font-size: 1.777em; }
+h3 { font-size: 1.333em; }
 h1 a:link, h1 a:visited {
   text-decoration: none;
 }
@@ -31,26 +31,26 @@ li {
 }
 
 ol {
-  font-size: 28px;
+  font-size: 177.77%;
   list-style: upper-roman;
   padding: 0;
   margin-left: 1.5em;
 }
 ol ol {
-  font-size: 21px;
+  font-size: 133.33%;
   font-weight: normal;
   list-style: upper-alpha;
 }
 ol ol ol {
-  font-size: 16px;
+  font-size: 100%;
   list-style: decimal;
 }
 ol ol ol ol {
-  font-size: 12px;
+  font-size: 75%;
   list-style: lower-alpha;
 }
 ol ol ol ol ol {
-  font-size: 9px;
+  font-size: 56.25%; 
   list-style: lower-roman;
 }
 
@@ -58,7 +58,7 @@ ol ol ol ol ol {
   color: #D4A3B1;
   margin-top: 3em;
   text-align: center;
-  font-size: 0.6em;
+  font-size: 0.75em;
 }
 
 #pagewrapper {
