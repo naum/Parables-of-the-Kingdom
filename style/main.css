@@ -37,12 +37,12 @@ ol {
   margin-left: 1.5em;
 }
 ol ol {
-  font-size: 133.33%;
+  font-size: 75%;
   font-weight: normal;
   list-style: upper-alpha;
 }
 ol ol ol {
-  font-size: 100%;
+  font-size: 75%;
   list-style: decimal;
 }
 ol ol ol ol {
@@ -50,7 +50,7 @@ ol ol ol ol {
   list-style: lower-alpha;
 }
 ol ol ol ol ol {
-  font-size: 56.25%; 
+  font-size: 75%; 
   list-style: lower-roman;
 }
 
